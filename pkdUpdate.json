@@ -1,8 +1,8 @@
 {
-  "title": "အပ်ဒိတ်အသစ်ရှိပါတယ်",
-  "message": "အပ်ပလီကေးရှင်းတွင် ပြုပြင်ချက်များနှင့် အင်္ဂါရပ်အသစ်များ ပါဝင်ပါတယ်။ ဆက်လက်အသုံးပြုရန် အပ်ဒိတ်လုပ်ပါ။",
-  "version": "1.0.0",
-  "versionCode": 1,
-  "downloadUrl": "link",
+  "title": "အထန်ႏတသာ",
+  "message": "ဖြုတ်ထိုꩻအလီꩻထွူ ဖျင်ထူႏထန်ႏတသာယင်းနေား",
+  "version": "1.0.9",
+  "versionCode": 10,
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.khunr.paocld",
   "forceUpdate": true
 }
